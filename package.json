@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https//zengtsu.github.io/nouachacademy",
+  "homepage": "https//nouachacademy.github.io/nouachacademy",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
